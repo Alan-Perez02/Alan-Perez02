@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things, playing videogames, listening music, in special rock and its variants.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on web development or object-oriented programming.
-- 📫 How to reach me ... videogames, music, and new ideas of AI
+- 📫 How to reach me ... videogames, music, and AI ideas.
 
 <!---
 Alan-Perez02/Alan-Perez02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
